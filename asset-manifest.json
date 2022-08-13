@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/simple-airbnb-react/static/css/main.882a733f.css",
-    "main.js": "/simple-airbnb-react/static/js/main.67c598ed.js",
+    "main.js": "/simple-airbnb-react/static/js/main.eab6da9d.js",
     "static/media/photo-grid.png": "/simple-airbnb-react/static/media/photo-grid.294d59b66b94e0e456cf.png",
     "static/media/mountain-bike.png": "/simple-airbnb-react/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
     "static/media/wedding-photography.png": "/simple-airbnb-react/static/media/wedding-photography.62dfa0af6d4f23912427.png",
@@ -9,10 +9,10 @@
     "static/media/airbnb-logo.png": "/simple-airbnb-react/static/media/airbnb-logo.e4424517383d14a03a24.png",
     "index.html": "/simple-airbnb-react/index.html",
     "main.882a733f.css.map": "/simple-airbnb-react/static/css/main.882a733f.css.map",
-    "main.67c598ed.js.map": "/simple-airbnb-react/static/js/main.67c598ed.js.map"
+    "main.eab6da9d.js.map": "/simple-airbnb-react/static/js/main.eab6da9d.js.map"
   },
   "entrypoints": [
     "static/css/main.882a733f.css",
-    "static/js/main.67c598ed.js"
+    "static/js/main.eab6da9d.js"
   ]
 }
